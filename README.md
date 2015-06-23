@@ -44,3 +44,5 @@ Example with data-ga:
 <div class="gaGlobal" data-ga="More descriptive text goes in here">Example Event Text</div>
  
 Assuming a url path of www.example.com/products/product, the example above will have an Event Category of "More descriptive text goes in here"  and an event label of "products/product".
+
+To Install, clone the repo, and upload the ga_events.zip file into your Wordpress installation. This should give you the minimized version of the plugin.
