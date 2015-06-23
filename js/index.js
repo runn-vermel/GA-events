@@ -18,4 +18,4 @@ jQuery(document).ready(function() {
         }
         ga( 'send', 'event', category, 'click', label );
     });    
-})
+});
