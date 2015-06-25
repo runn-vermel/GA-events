@@ -14,7 +14,7 @@ You can also add an optional data-ga attribute to any elements to help describe 
 
 
 ---------------------------------------------- 
-CLASS ga:
+CLASS ga
 ----------------------------------------------
 
 Use this class to create a Google Analytics Event that by default sets the Event Category as the window path, and the Event Label as the Element Text. You can always add an data-ga attribute to change the event label. 
